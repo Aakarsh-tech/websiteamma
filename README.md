@@ -1,3 +1,3 @@
 # websiteamma
 My Amazon clone site
-By HTML,CSS 
+By HTML and CSS
